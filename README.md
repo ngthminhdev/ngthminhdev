@@ -8,7 +8,7 @@
     <a href="mailto:ngthminh.dev@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://www.facebook.com/minhngth1309">
+    <a href="https://www.facebook.com/ngthminhdev">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
   </div>
